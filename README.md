@@ -1,5 +1,9 @@
 ### Olá! Eu sou o Adson Patrique 👋 
 
+<p align="center">
+<img src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=ecf05e47x4acd4dczhk82frp05am2h5jqruwau7dndw2jyty&rid=giphy.gif&ct=g" />
+</p>
+
 <div align="center">
   <a href="https://github.com/adsonpatrick">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adsonpatrick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
