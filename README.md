@@ -23,7 +23,6 @@
   <img align="center" alt="Adson-Git" src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white">
   <img align="center" alt="Adson-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Adson-Git" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-  <img align="center" alt="Adson-Git" src="https://code.iconify.design/iconify-icon/1.0.3/iconify-icon.min.js">
   
 </div>
 
