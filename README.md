@@ -2,7 +2,7 @@
 #### Sou entusiasta em Teste e Qualidade de Software! Vou compartilhar minha evolução por aqui, ainda estou aprendendo porém a cada dia vou dar o meu melhor! 🤞
 
 <p align="center">
-<img src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=ecf05e47x4acd4dczhk82frp05am2h5jqruwau7dndw2jyty&rid=giphy.gif&ct=g" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Zhc3dwZGtnMmFkcHU5cG53a2FhZThzeXNrZThkbTN0NHRseWRucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/akEhceCKfMyKA/giphy.gif" />
 </p>
 
   ## Tecnologias Usadas:
