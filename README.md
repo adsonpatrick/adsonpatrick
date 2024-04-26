@@ -1,5 +1,5 @@
 ## E aí galera, sejam bem-vindos 🐱‍💻
-#### Sou entusiasta em Qualidade de Software e Infosec! Vou compartilhar minha evolução por aqui, ainda estou aprendendo porém a cada dia vou dar o meu melhor! 🤞
+#### Sou entusiasta em Qualidade de Software e Infosec! Vou compartilhar com vocês minha evoluçao! 🤞
 
 <p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Zhc3dwZGtnMmFkcHU5cG53a2FhZThzeXNrZThkbTN0NHRseWRucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/akEhceCKfMyKA/giphy.gif" />
@@ -26,5 +26,3 @@
   
 </div>
 
-  
-  ![Snake animation](https://github.com/adsonpatrick/adsonpatrick/blob/output/github-contribution-grid-snake.svg)
